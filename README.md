@@ -35,7 +35,7 @@ This dataset is publicly available on Kaggle and is commonly used for educationa
 ---
 
 ## ⚙️ Project Structure
-
+```
 House-Price-Prediction/
 │
 ├── app.py # Flask application
@@ -57,7 +57,7 @@ House-Price-Prediction/
 │
 ├── housing.csv # Dataset
 └── .gitignore
-
+```
 ---
 
 ## ▶️ How to Run the Project
