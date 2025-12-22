@@ -82,7 +82,7 @@ http://127.0.0.1:5000/
 
 ---
 
-📈 Model Details
+## 📈 Model Details
 
 The trained model file is not included in the repository due to GitHub size limits.
 Users can retrain the model by running main.py.
@@ -101,7 +101,9 @@ Evaluation:
 
 Cross-validation using RMSE
 
-📌 Future Improvements
+---
+
+## 📌 Future Improvements
 
 Model performance visualization
 
@@ -111,7 +113,9 @@ Input validation and error handling
 
 Additional feature engineering
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Gaural Rathod
 Data Analyst / Data Scientist
