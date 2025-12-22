@@ -63,7 +63,7 @@ House-Price-Prediction/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
-
+```
 git clone https://github.com/gaural-rathod07/House-Price-Prediction_07.git
 cd house-price-prediction
 
@@ -79,6 +79,8 @@ python app.py
 
 ### 5️⃣ Open in browser
 http://127.0.0.1:5000/
+
+```
 
 📈 Model Details
 
