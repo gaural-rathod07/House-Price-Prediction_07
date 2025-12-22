@@ -80,7 +80,7 @@ python app.py
 ### 5️⃣ Open in browser
 http://127.0.0.1:5000/
 
-```
+---
 
 📈 Model Details
 
