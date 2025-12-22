@@ -1,4 +1,4 @@
-# 🏠 California Housing Price Prediction
+# 🏠 House Price Prediction
 
 A machine learning web application that predicts the **median house value in California** based on geographical and demographic features.  
 The project uses a **Random Forest Regressor** trained on the California Housing dataset and is deployed using **Flask** with a clean, responsive UI.
