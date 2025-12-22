@@ -63,21 +63,21 @@ House-Price-Prediction/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/gaural-rathod07/house-price-prediction.git
 cd house-price-prediction
 
-2️⃣ Create virtual environment (optional but recommended)
+### 2️⃣ Create virtual environment (optional but recommended)
 python -m venv myenv
 source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
-3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the Flask app
+### 4️⃣ Run the Flask app
 python app.py
 
-5️⃣ Open in browser
+### 5️⃣ Open in browser
 http://127.0.0.1:5000/
 
 📈 Model Details
