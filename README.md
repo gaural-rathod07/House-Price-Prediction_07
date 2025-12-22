@@ -64,11 +64,11 @@ House-Price-Prediction/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/gaural-rathod07/House-Price-Prediction_07.git
+git clone https://github.com/gaural-rathod07/House-Price-Prediction_07.git 
 cd house-price-prediction
 
 ### 2️⃣ Create virtual environment (optional but recommended)
-python -m venv myenv
+python -m venv myenv 
 source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
 ### 3️⃣ Install dependencies
