@@ -119,3 +119,8 @@ Additional feature engineering
 
 Gaural Rathod  
 Data Analyst / Data Scientist
+
+## Screenshot
+
+<img width="1892" height="917" alt="Input_values" src="https://github.com/user-attachments/assets/32ea0697-b547-45a9-a11e-a9dbfd0aa513" />
+
